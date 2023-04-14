@@ -87,7 +87,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(229, 231, 233 );
   // Afficher l'image en haut à gauche du canvas
   imageMode(CORNER);
   image(img, 0, 0, 100, 100);
